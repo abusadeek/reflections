@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   Using the Windows FC (File Compare) command prompt.
+   I typed FC old_game.js new_game.js
+   
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It can help me compare between the old versions and new versions, to see the diffrences in each.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    It gives you the flexibility on when to create a commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think Git is mostly for programming purpose while others like Google Docs are not for programming purposes
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use the git log to see outputs and then git diff to compare two commits and see the changes. pressing q in both cases exit the log and diff.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    A typo could lead to that.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using Git for a small code that i will write.
